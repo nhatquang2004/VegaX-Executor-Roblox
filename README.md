@@ -18,6 +18,7 @@ To get started with VegaX Executor, follow these simple steps:
 
 
 
+
 ![VegaX Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
